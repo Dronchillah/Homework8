@@ -1,6 +1,7 @@
 package ua.lvlup.homework;
 
 public class SelectionSort implements Sort{
+
     @Override
     public int[] sort(int[] array) {
         int min;

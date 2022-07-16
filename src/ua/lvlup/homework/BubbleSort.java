@@ -1,6 +1,7 @@
 package ua.lvlup.homework;
 
 public class BubbleSort implements Sort{
+
     @Override
     public int[] sort(int[] array) {
         for (int i = 0; i < array.length; i++) {
